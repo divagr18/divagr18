@@ -1,13 +1,11 @@
-I’m an AI engineer specializing in backend architecture, cloud infrastructure, and autonomous agent systems.
+I’m an AI engineer specializing in backend architecture, cloud infrastructure, and intelligent systems across agentic workflows and financial applications.
 
-I design and deploy intelligent software that integrates LLMs into modular backends, distributed orchestration layers, and cloud-native environments — built for transparency, scalability, and operational reliability.
+I’m also the founder and lead developer of [Cerno AI](https://github.com/cerno-ai), a local-first initiative building open infrastructure for agentic workflows and self-hosted inference systems.
 
-I’m also the founder and lead developer of Cerno AI, a local-first AI infrastructure initiative building open, extensible tooling for LLM-driven automation. Cerno’s ecosystem includes agentic task managers, document RAG interfaces, and orchestration layers that run efficiently on local or self-hosted environments, with optional cloud integrations.
+I design modular systems that integrate LLMs into backend services, orchestration layers, and RAG pipelines — with emphasis on transparency, composability, and verifiability. I also work across deployment automation, observability tooling, and containerized cloud environments.
 
-On the backend, I work with modern web frameworks, distributed queues, vector search, and structured APIs.  
-On the cloud side, I deploy scalable systems using containerization, CI/CD, and serverless runtimes.
+I’ve built systems for financial applications — including forecasting models, compliance workflows, and data pipelines — with a focus on performance, auditability, and scale.
 
-LinkedIn: [linkedin.com/in/divyansh-agrawal-b418b0241](https://linkedin.com/in/divyansh-agrawal-b418b0241)  
-Email: [keshav.r.1925@gmail.com](mailto:keshav.r.1925@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/divyansh-agrawal-b418b0241) · [Email](mailto:keshav.r.1925@gmail.com)
 
-Open to collaborations across autonomous systems, backend AI architecture, and cloud-scale deployment.
+Open to opportunities and collaborations in LLM systems, agentic tooling, and cloud-scale infrastructure.
