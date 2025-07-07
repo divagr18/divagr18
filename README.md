@@ -2,7 +2,7 @@ I’m an AI engineer specializing in backend architecture, cloud infrastructure,
 
 I’m also the founder and lead developer of [Cerno AI](https://github.com/cerno-ai), a local-first initiative building open infrastructure for agentic workflows and self-hosted inference systems.
 
-I design modular systems that integrate LLMs into backend services, orchestration layers, and RAG pipelines — with emphasis on transparency, composability, and verifiability. I also work across deployment automation, observability tooling, and containerized cloud environments.
+I design modular systems that integrate LLMs into backend services, agent runtimes, and RAG pipelines. I also work across deployment automation, observability, and containerized cloud environments.
 
 I’ve built systems for financial applications — including forecasting models, compliance workflows, and data pipelines — with a focus on performance, auditability, and scale.
 
