@@ -8,4 +8,4 @@ I’ve built systems for financial applications, including forecasting models, c
 
 📫 [LinkedIn](https://linkedin.com/in/divyansh-agrawal-b418b0241) · [Email](mailto:keshav.r.1925@gmail.com)
 
-Open to opportunities and collaborations in LLM systems, agentic tooling, and cloud-scale infrastructure.
+Open to opportunities, consulting opportunities and collaborations in LLM systems, agentic tooling, and cloud-scale infrastructure.
