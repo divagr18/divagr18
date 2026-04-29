@@ -1,11 +1,18 @@
-I’m an AI engineer specializing in backend architecture, cloud infrastructure, and intelligent systems across agentic workflows and financial applications.
+I build systems that push the limits of what AI can actually do in production.
 
-I’m also the founder and lead developer of [Cerno AI](https://github.com/cerno-ai), a local-first initiative building open infrastructure for agentic workflows and self-hosted inference systems.
+AI engineer focused on backend architecture, inference infrastructure, and agent systems. I work across distributed systems, cloud environments, and real-world constraints. Most people build on top of models. I’m more interested in the layer underneath that determines how far they can be pushed.
 
-I design modular systems that integrate LLMs into backend services, agent runtimes, and RAG pipelines. I also work across deployment automation, observability, and containerized cloud environments.
+### What I Work On
+- Inference infrastructure (routing, caching, performance)
+- Agent systems with state and long-running execution
+- Backend + cloud (distributed systems, containers, observability)
+- Applied AI in finance (forecasting, compliance, pipelines)
 
-I’ve built systems for financial applications, including forecasting models, compliance workflows, and data pipelines, with a focus on performance, auditability, and scale.
+### How I Think
+Systems > demos  
+Constraints > abstractions  
+Leverage > features  
 
-📫 [LinkedIn](https://linkedin.com/in/divyansh-agrawal-b418b0241) · [Email](mailto:keshav.r.1925@gmail.com)
+**Links:** GitHub https://github.com/divagr18 · LinkedIn https://linkedin.com/in/divyansh-agrawal-b418b0241 · Email keshav.r.1925@gmail.com  
 
-Open to opportunities, consulting opportunities and collaborations in LLM systems, agentic tooling, and cloud-scale infrastructure.
+Open to opportunities, consulting, and collaborations in AI infrastructure, agent systems, and distributed backend systems.
