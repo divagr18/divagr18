@@ -6,6 +6,6 @@ AI engineer focused on backend architecture, inference infrastructure, and agent
 
 **How I think:** systems > demos · constraints > abstractions · leverage > features 
 
-**Links:** GitHub https://github.com/divagr18 · LinkedIn https://linkedin.com/in/divyansh-agrawal-b418b0241 · Email keshav.r.1925@gmail.com  
+**Links:** GitHub https://github.com/divagr18 · LinkedIn https://linkedin.com/in/divyansh-agrawal-b418b0241 · Email divagr1925@gmail.com  
 
 Open to opportunities, consulting, and collaborations in AI infrastructure, agent systems, and distributed systems.
